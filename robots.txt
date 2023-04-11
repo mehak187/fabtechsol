@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Allow: /admin/connection.php
+Sitemap: https://fabtechsol.com/sitemap.xml

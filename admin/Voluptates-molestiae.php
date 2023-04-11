@@ -1,0 +1,1 @@
+<?php include "blog-main.php"; ?>\n\n<h1>Voluptates molestiae</h1>\n<p>Culpa anim corrupti</p>\n<p>In fugiat eveniet </p>\n<p>Non minim sed in mag</p>\n
